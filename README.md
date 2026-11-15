@@ -4,13 +4,11 @@ A text-only Android home screen for entry-level phones (2–3 GB RAM, Android 8.
 No icons, no dock. Optional widgets live on their own page and cost nothing while it's closed. Any static or live wallpaper shows through at zero cost.
 Release APK is ~175 KB.
 
-<!-- Screenshots: uncomment this block once the four PNGs are in screenshots/.
-     Capture each with:  adb exec-out screencap -p > screenshots/home.png
-
 | Home | App drawer | Notes | Widgets |
 |---|---|---|---|
 | <img src="screenshots/home.png" width="180" alt="Home screen: clock and a short list of app names"> | <img src="screenshots/drawer.png" width="180" alt="App drawer with search"> | <img src="screenshots/notes.png" width="180" alt="Notes page"> | <img src="screenshots/widgets.png" width="180" alt="Widgets page"> |
--->
+
+**[Watch the 45-second demo video](demo/demo.mp4)**
 
 ## Features
 
