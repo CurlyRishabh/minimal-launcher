@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:visibility="gone">
+
+    <EditText
+        android:id="@+id/search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@null"
+        android:fontFamily="sans-serif"
+        android:hint="@string/search_hint"
+        android:imeOptions="actionGo|flagNoExtractUi|flagNoFullscreen"
+        android:importantForAutofill="no"
+        android:inputType="text|textNoSuggestions|textFilter"
+        android:paddingStart="@dimen/page_padding_h"
+        android:paddingTop="12dp"
+        android:paddingEnd="@dimen/page_padding_h"
+        android:paddingBottom="12dp"
+        android:singleLine="true"
+        android:textColor="@color/text_light"
+        android:textCursorDrawable="@drawable/cursor"
+        android:textSize="22sp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clipToPadding="false"
+        android:overScrollMode="never"
+        android:paddingBottom="16dp"
+        android:scrollbars="none" />
+</LinearLayout>

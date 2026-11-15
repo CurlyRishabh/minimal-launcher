@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- API 29+: stop the system adding its own contrast scrim behind the bars. -->
+    <style name="Theme.Minimal" parent="Base.Theme.Minimal">
+        <item name="android:enforceStatusBarContrast">false</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
+    </style>
+</resources>

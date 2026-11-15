@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Minimal Launcher</string>
+    <string name="settings">Settings</string>
+
+    <!-- Home -->
+    <string name="empty_slot">add app</string>
+    <string name="reassign">Reassign</string>
+    <string name="remove">Remove from home</string>
+
+    <!-- Drawer -->
+    <string name="search_hint">search</string>
+    <string name="pick_hint">pick an app for home</string>
+    <string name="home_search">search</string>
+    <string name="search_files">Search files…</string>
+    <string name="no_viewer">No app can open this file</string>
+    <string name="notes_title">notes</string>
+    <string name="notes_hint">Write anything. Saved on this phone only.</string>
+    <string name="add_to_home">Add to home</string>
+    <string name="rename">Rename</string>
+    <string name="hide">Hide</string>
+    <string name="unhide">Unhide</string>
+    <string name="app_info">App info</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="reset">Reset</string>
+    <string name="replace_which">Replace which app?</string>
+    <string name="work_suffix">%1$s (work)</string>
+    <string name="cant_open">Can\'t open this app</string>
+    <string name="added_to_home">Added to home</string>
+
+    <!-- Widgets -->
+    <string name="widgets_title">widgets</string>
+    <string name="widgets_add">+ add widget</string>
+    <string name="widgets_empty">No widgets yet. Widgets only use memory while this page is open.</string>
+    <string name="widgets_hint">Long-press a widget to resize, move or remove it.</string>
+    <string name="widgets_none">No widgets are installed</string>
+    <string name="widget_choose_app">Widgets from</string>
+    <string name="widget_failed">Couldn\'t add this widget</string>
+    <string name="widget_taller">Taller</string>
+    <string name="widget_shorter">Shorter</string>
+    <string name="widget_up">Move up</string>
+    <string name="widget_down">Move down</string>
+    <string name="widget_remove">Remove</string>
+
+    <!-- Gestures -->
+    <string name="shade_unsupported">Swipe down from the top edge to open notifications</string>
+    <string name="lock_needs_p">Double-tap lock needs Android 9 or newer</string>
+    <string name="lock_service_off">Turn on the lock service in Settings → Double-tap to lock</string>
+
+    <!-- Settings -->
+    <string name="s_fav_count">Apps on home</string>
+    <string name="s_alignment">Alignment</string>
+    <string name="s_text_size">Text size</string>
+    <string name="s_text_color">Text colour</string>
+    <string name="s_auto_launch">Auto-launch single match</string>
+    <string name="s_show_hidden">Show hidden apps</string>
+    <string name="s_double_tap">Double-tap to lock</string>
+    <string name="s_drawer_keyboard">Open keyboard on swipe up</string>
+    <string name="s_home_search">Search bar on home</string>
+    <string name="s_notes">Notes page (swipe right)</string>
+    <string name="s_widgets">Widgets page (swipe left)</string>
+    <string name="s_wallpaper">Change wallpaper</string>
+    <string name="s_default">Set as default launcher</string>
+    <string name="s_refresh">Refresh app list</string>
+    <string name="s_hint">Long-press empty space on home to come back here.</string>
+    <string name="align_left">Left</string>
+    <string name="align_center">Center</string>
+    <string name="align_right">Right</string>
+    <string name="size_s">Small</string>
+    <string name="size_m">Medium</string>
+    <string name="size_l">Large</string>
+    <string name="color_light">Light</string>
+    <string name="color_dark">Dark</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="yes_default">Yes, this is the home app</string>
+    <string name="not_default">No — tap to choose</string>
+    <string name="lock_on_service_off">On, but the accessibility service is off — tap to fix</string>
+    <string name="lock_unsupported">Needs Android 9+</string>
+    <string name="refreshing">Refreshing app list…</string>
+
+    <!-- Accessibility explanation -->
+    <string name="lock_explain_title">Double-tap to lock</string>
+    <string name="lock_explain_body">Android only lets apps lock the screen through an Accessibility service, so this feature needs one.\n\nWhat the service does:\n• Locks the screen when you double-tap empty space on the home screen.\n• If system expansion fails, opens the notification shade on swipe down.\n\nWhat it does NOT do:\n• It cannot read the screen, what you type, or any app content.\n• This app has no internet permission, so nothing can leave your phone.\n\nNext, Android\'s Accessibility settings open. Tap \"Installed apps\" (or \"Downloaded apps\"), choose \"Minimal Launcher lock\", and turn it on.\n\nIf Android says the setting is restricted: open App info for Minimal Launcher → ⋮ menu → \"Allow restricted settings\", then try again.</string>
+    <string name="lock_explain_go">Open settings</string>
+    <string name="lock_service_label">Minimal Launcher lock</string>
+    <string name="lock_service_desc">Lets Minimal Launcher lock the screen when you double-tap empty space on the home screen. It does not read screen content or anything you type.</string>
+</resources>

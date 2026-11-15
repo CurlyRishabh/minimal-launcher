@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="page_padding_h">32dp</dimen>
+    <dimen name="page_padding_top">56dp</dimen>
+    <dimen name="page_padding_bottom">32dp</dimen>
+    <dimen name="fav_padding_v">10dp</dimen>
+    <dimen name="row_padding_v">12dp</dimen>
+    <dimen name="drawer_slide">48dp</dimen>
+    <dimen name="swipe_min_distance">56dp</dimen>
+    <dimen name="widget_page_padding">12dp</dimen>
+    <dimen name="widget_text_inset">20dp</dimen>
+    <dimen name="widget_gap">12dp</dimen>
+    <dimen name="shadow_radius">6dp</dimen>
+    <dimen name="shadow_dy">1dp</dimen>
+</resources>

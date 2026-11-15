@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ~70% black over the wallpaper for the drawer and settings. -->
+    <color name="scrim">#B3000000</color>
+    <color name="text_light">#FFFFFFFF</color>
+    <color name="text_dark">#FF141414</color>
+    <color name="shadow_on_light_text">#73000000</color>
+    <color name="shadow_on_dark_text">#59FFFFFF</color>
+    <color name="pressed">#1FFFFFFF</color>
+    <color name="hint">#8CFFFFFF</color>
+    <color name="icon_bg">#FF111111</color>
+    <color name="icon_fg">#FFFFFFFF</color>
+</resources>

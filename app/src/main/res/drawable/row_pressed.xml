@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Static pressed highlight instead of an animated ripple (no animations besides the drawer). -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@color/pressed" />
+    <item android:drawable="@android:color/transparent" />
+</selector>
