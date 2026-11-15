@@ -8,7 +8,11 @@ Release APK is ~175 KB.
 |---|---|---|---|
 | <img src="screenshots/home.png" width="180" alt="Home screen: clock and a short list of app names"> | <img src="screenshots/drawer.png" width="180" alt="App drawer with search"> | <img src="screenshots/notes.png" width="180" alt="Notes page"> | <img src="screenshots/widgets.png" width="180" alt="Widgets page"> |
 
-**[Watch the 45-second demo video](demo/demo.mp4)**
+## Demo
+
+<img src="demo/demo.gif" width="270" alt="45-second demo: picking home apps, searching the drawer, the notes page, the widgets page, and launching an app">
+
+[Full-quality video](demo/demo.mp4)
 
 ## Features
 
