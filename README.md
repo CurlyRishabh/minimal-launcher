@@ -23,7 +23,13 @@ Release APK is ~175 KB.
 - **Private.** No INTERNET permission, no analytics, no ads.
 - **Small.** One dependency (`androidx.recyclerview`), and a target of 30–40 MB of RAM while idle on home.
 
-**Contents:** [Gestures](#gestures) · [Project layout](#project-layout) · [Build](#1-build-in-android-studio) · [Install](#3-install) · [Set as default](#4-set-it-as-the-default-home-app) · [Revert](#5-if-something-breaks-how-to-revert) · [Known limitations](#known-limitations) · [Verify performance](#verify-performance)
+## Download
+
+**[Download the latest APK](https://github.com/CurlyRishabh/minimal-launcher/releases/latest/download/minimal-launcher.apk)** (about 175 KB), or see [all releases](https://github.com/CurlyRishabh/minimal-launcher/releases).
+
+Open the file on your phone and allow your browser or file manager to install apps when Android asks. Then [set it as the default home app](#4-set-it-as-the-default-home-app).
+
+**Contents:** [Download](#download) · [Gestures](#gestures) · [Project layout](#project-layout) · [Build](#1-build-in-android-studio) · [Install](#3-install) · [Set as default](#4-set-it-as-the-default-home-app) · [Revert](#5-if-something-breaks-how-to-revert) · [Known limitations](#known-limitations) · [Verify performance](#verify-performance)
 
 ## Gestures
 
